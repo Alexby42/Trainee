@@ -39,7 +39,7 @@
 
 Предусмотрен вывод массива данных в текстовый файл в формате HTML.
 
-![output_all](output_all.html)
+![Output_all](https://github.com/user-attachments/assets/2a3c5f09-5ed9-49b5-8a9d-3ce3e42f7a0d)
 
 ### Запуск программы:
 
